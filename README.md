@@ -24,12 +24,12 @@
     
     There are various Application layer Protocols some of them are-
 
-      HTTP - hyper text transfer protocol
-      HTTPS - hyper text transfer protocol secure
-      FTP - file transfer protocol
-      NFS - network file system
-      DHCP - dynamic host configuration protocol
-      SMTP - simple mail transfer protocol
+    1. HTTP - hyper text transfer protocol
+    2. HTTPS - hyper text transfer protocol secure
+    3. FTP - file transfer protocol
+    4. NFS - network file system
+    5. DHCP - dynamic host configuration protocol
+    6. SMTP - simple mail transfer protocol
    
 ## 2. Presentation layer 
    Presentation layer is also called Translation layer. This layer takes the data form
@@ -104,7 +104,7 @@
 
 
 ## Refrences 
-   Geeksforgeeks - https://www.geeksforgeeks.org/layers-of-osi-model/    
+   (Geeksforgeeks)[https://www.geeksforgeeks.org/layers-of-osi-model/]    
   
 
 
